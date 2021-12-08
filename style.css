@@ -35,7 +35,7 @@ body{
         background-color: var(--tiffanyBlueColor);
     }
 
-    .main-nav__cintainer{
+    .main-nav__container{
         display: flex;
         padding: 10px;
         /* max-width: 1970; */
